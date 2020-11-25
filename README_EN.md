@@ -56,6 +56,6 @@
 ### Latest version
 [Download V2.5.1](https://xjdl.vgabc.com/gsw/download/gamesir-ota/G-Crux_v2.5.1.apk)
 
-### Download from Baidu Drive 
+# Download from Baidu Drive 
 [Download](https://pan.baidu.com/s/1_jXIkG0Hf3Q88IVHCihGfQ?#list/path=%2FGSW)
 
