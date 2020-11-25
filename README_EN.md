@@ -1,3 +1,25 @@
+<table>
+  <tr>
+    <td align=center>
+      This
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>English:</b> 
+      <a href="README_EN.md">README_EN.md</a>
+    </td>
+    <td>
+      <b>中文:</b>
+      <a href=".">README.md</a>
+    </td>
+    <td>
+      <b>Japanese:</b> 
+      <a href="README_JA.md">README_JA.md</a>
+    </td>
+  </tr>
+</table>
+
 # GameSir World
 ### Latest version
 [Download V4.0.5](https://xjdl.vgabc.com/gsw/download/gsw_4.0.5-A128.apk)
